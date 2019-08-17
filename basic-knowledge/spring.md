@@ -23,6 +23,7 @@
 #### 文档
 
 * 事务
+	* [深入理解 Spring 事务原理](http://www.codeceo.com/article/spring-transactions.html)
 	* [Spring事务传播性与隔离性](https://mp.weixin.qq.com/s/u4NLJ3I2vkeZHWBpgHsdEA)
 
 * annotation 重试配置
@@ -31,3 +32,6 @@
 
 *  框架配置
 	* [Spring、Spring MVC、MyBatis 整合文件配置详解](https://mp.weixin.qq.com/s/8-XvEOA4WzrZwytOXpHHyw)
+	
+*  其它
+	* [利用StopWatch监控Java代码运行时间和分析性能](https://jingyan.baidu.com/article/11c17a2c353e20f446e39d38.html)
